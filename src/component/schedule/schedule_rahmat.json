@@ -1,0 +1,11 @@
+[{"id":1,"date":"14/04/2021","day":"Wed","sahri_time":"4-15 Am","fajar_suru":"4-21 Am","iftar_time":"6-23 Pm"},
+{"id":2,"date":"15/04/2021","day":"Thu","sahri_time":"4-14 Am","fajar_suru":"4-20 Am","iftar_time":"6-24 Pm"},
+{"id":3,"date":"16/04/2021","day":"Fri","sahri_time":"4-13 Am","fajar_suru":"4-19 Am","iftar_time":"6-24 Pm"},
+{"id":4,"date":"17/04/2021","day":"Sat","sahri_time":"4-12 Am","fajar_suru":"4-18 Am","iftar_time":"6-24 Pm"},
+{"id":5,"date":"18/04/2021","day":"Sun","sahri_time":"4-11 Am","fajar_suru":"4-17 Am","iftar_time":"6-25 Pm"},
+{"id":6,"date":"19/04/2021","day":"Mon","sahri_time":"4-10 Am","fajar_suru":"4-16 Am","iftar_time":"6-25 Pm"},
+{"id":7,"date":"20/04/2021","day":"Tue","sahri_time":"4-09 Am","fajar_suru":"4-15 Am","iftar_time":"6-26 Pm"},
+{"id":8,"date":"21/04/2021","day":"Wed","sahri_time":"4-08 Am","fajar_suru":"4-14 Am","iftar_time":"6-26 Pm"},
+{"id":9,"date":"22/04/2021","day":"Thu","sahri_time":"4-07 Am","fajar_suru":"4-13 Am","iftar_time":"6-27 Pm"},
+{"id":10,"date":"23/04/2021","day":"Fri","sahri_time":"4-06 Am","fajar_suru":"4-12 Am","iftar_time":"6-27 Pm"}
+]
